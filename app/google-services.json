@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "63958623971",
+    "firebase_url": "https://laundryq-e0698.firebaseio.com",
+    "project_id": "laundryq-e0698",
+    "storage_bucket": "laundryq-e0698.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63958623971:android:d0250ca268e9dd2a",
+        "android_client_info": {
+          "package_name": "app.laundryq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63958623971-kv9onhc02o060h18bm0iuphbklcgstbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.laundryq",
+            "certificate_hash": "73939cae4e992eb6a0d8f5af792c578b785408f1"
+          }
+        },
+        {
+          "client_id": "63958623971-b62diiboi4kqcsigf3k11o82dvu98808.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNJoJbOAVuYn7AyJgXOS3HHuS7ZprFcd8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63958623971-b62diiboi4kqcsigf3k11o82dvu98808.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
